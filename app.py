@@ -75,4 +75,5 @@ if os.path.exists("feature_importance.csv"):
     st.bar_chart(data=top_10, x="Feature", y="Importance", color="#ff4b4b")
     st.caption("This chart shows which network features most heavily influence the AI's decision-making.")
 else:
+
     st.info("Run the training script to generate feature importance data.")
