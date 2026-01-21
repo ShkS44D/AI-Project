@@ -65,6 +65,7 @@ Interpretability: The app displays which features (e.g., src_bytes, dst_host_srv
 ⚠️ Disclaimer
 This is a research prototype designed for educational purposes and is not intended to replace enterprise-grade firewall solutions. It is trained specifically on the NSL-KDD dataset characteristics.
 
-Author: [Your Name/Saad Ahmed]
+Author: Saad Ahmed
+
 
 License: MIT
